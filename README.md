@@ -16,5 +16,5 @@ Some fun facts about me:
 
 
 # Table of Contents
-**Activities**
+**Activities**  
 [Link to Test Activity 1](assignments/testactivity1.md)

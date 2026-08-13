@@ -1,4 +1,4 @@
-# Template Portfolio
+# Portfolio Repository
 This is my portfolio repository for **IT 305W - Advanced Web Applications**.  
 Instructor: *Sir Steve Brian Remolina*
 # About Me

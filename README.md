@@ -1,5 +1,5 @@
 # Template Portfolio
-This is my portfolio repository for **IT 305W - Advanced Web Applications**.
+This is my portfolio repository for **IT 305W - Advanced Web Applications**.  
 Instructor: *Sir Steve Brian Remolina*
 # About Me
 *My name is Ian James Delos Reyes, I'm a third-year undergraduate student at Bulacan State University in Philippines, researching code comprehension interventions, it's nice to meet you!*

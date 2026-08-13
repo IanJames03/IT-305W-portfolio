@@ -1,7 +1,7 @@
 # Activity
 ## Testing JavaScript
 
-```
+```javascript
 // Testing JavaScript
 // Name: Ian James Delos Reyes
 // Date: August 13, 2026

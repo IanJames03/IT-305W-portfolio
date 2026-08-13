@@ -4,6 +4,7 @@
 ```
 // Testing JavaScript
 // Name: Ian James Delos Reyes
+// Date: August 13, 2026
 // Time Spent: 12 minutes
  
 let name = "Ian James Delos Reyes";
